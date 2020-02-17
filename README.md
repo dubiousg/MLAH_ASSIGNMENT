@@ -36,6 +36,7 @@ contextual reasoning.
 Your project should be a data-driven machine learning projectincluding the following components:
 
 A. Data collection
+
 You need to collect a suitable dataset for your machine learning system. You are expected to apply
 "data cleansing" operations when you prepare your data. If you apply supervised machine learning
 approaches, you would also need to annotate each data point. After the data collection, please
@@ -44,12 +45,14 @@ Please explain your data management plan and rise the ethical concerns with the 
 contains sensitive information.
 
 B. Feature analysis
+
 Define a feature space based on the data samples. Make use of data visualisation tools such as
 histograms, scatter diagrams, parallel coordinates to observe the quality and correlation of the
 features. You also need to set up a hypophysis after observing the feature distribution for the data
 training.
 
 C. Data learning
+
 Design and develop a suitable learning model using machine learning tools such as Scikit-Learn and
 TensorFlow. Depending on the algorithms, you may need to pre-process the data such as "scaling"
 and "de-noising". You can use cross-validation approaches to estimate the performance. You also
@@ -57,6 +60,7 @@ need to keep the balance between under- and over-fitting through adjusting the h
 of the chosen machine learning algorithms. 
 
 D. Evaluation
+
 The focus will be the accuracy performance of the developed system. You need to fine-tune your
 model to improve system accuracy performance. It would be better if you can compare more than
 two different algorithms in the project. During the system evaluation, you need to analyse and
@@ -78,6 +82,7 @@ reason you cannot submit your assignment to the Blackboard, then you should copy
 deliverables to a CD/DVD/Memory Stick and hand it into Cantor reception by the same deadline.
 
 3. Demonstration
+
 A demonstration of your group project will be held between the 23rd March and 24th of April 2020. The
 timeslots for the demonstration will be made available via the module Blackboard site for your group to
 choose. The demonstration will include twenty minutes of walkthrough followed by discussion and
@@ -88,6 +93,7 @@ amount of work during the presentation to show their contributions to the projec
 not attend their group walkthrough will be given a mark of zero for the demonstration.
 
 4. Individual Report
+
 Each group member needs to write an individual development report for this task. The report should cover
 the entire project design and development pipeline, i.e. data collection, feature analyses, data learning and
 performance evaluation.
