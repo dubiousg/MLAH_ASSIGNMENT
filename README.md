@@ -1,7 +1,7 @@
 # MLAH_ASSIGNMENT
 
 Data Set being used:
-https://steam.internet.byu.edu/
+https://www.kaggle.com/trolukovich/steam-games-complete-dataset
 
 55-602446 Machine Learning Algorithms and Heuristics
 Task 1: Machine Learning System Demonstration
